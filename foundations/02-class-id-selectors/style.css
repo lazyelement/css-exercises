@@ -1,0 +1,24 @@
+*
+{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.class1{
+    background-color: pink;
+    font-size: 18px;
+}
+
+.class1.cooler{
+    font-size: 30px;
+}
+
+#id2{
+    color: blue;
+    font-size: 40px;
+}
+
+#id4{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
